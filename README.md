@@ -5,8 +5,13 @@
 Google Colab, Runtime : GPU<br>
 <br>
 
-## Requirement
-1. 기말과제_한글6.
+## 실행 방법
+1. 기말과제_한글6.ipynb 파일을 연 후 open in Colab 버튼을 눌러 colab 환경에서 실행
+2. 기말과제_영어2.ipynb 파일을 연 후 open in Colab 버튼을 눌러 colab 환경에서 실행
+<br>
+
+## 주의 사항
+Colab 화면에서 Edit > Notebook settings > Hardward accelerators > GPU > SAVE 후 실행
 <br>
 
 ## 소스코드 참고
