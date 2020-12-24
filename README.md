@@ -6,3 +6,9 @@ Google Colab, Runtime : GPU<br>
 <br>
 
 ## Requirement
+1. 기말과제_한글6.
+<br>
+
+## 소스코드 참고
+https://heegyukim.medium.com/huggingface-koelectra%EB%A1%9C-nsmc-%EA%B0%90%EC%84%B1%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-1a23a0c704af
+https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sharing
